@@ -1,2 +1,3 @@
-# project3-iac-script-Atlantico-Bootcamp
-Provisionamento de uma aplicação em um servidor web Apache. Projeto prático pelo Bootcamp DevOps da Atlantico.
+# Projeto | IaC - Vagrant | Script de provisionamento de uma aplicação em um servidor web Apache
+
+O script provisiona uma aplicação web em um servidor Apache.
